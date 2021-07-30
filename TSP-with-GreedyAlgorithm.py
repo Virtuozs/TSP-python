@@ -1,4 +1,4 @@
-import random,time,math
+import random,time,math,sys
 from tkinter import *
 
 canvas_width = 1080
